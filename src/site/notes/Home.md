@@ -6,4 +6,6 @@
 
 Welcome to the forward frost website!
 
-[[Projects\|Projects]]
+[[Projects\|Projects]] | [[Sitemap\|Sitemap]]
+
+---
